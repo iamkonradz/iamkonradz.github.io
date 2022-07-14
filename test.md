@@ -3,7 +3,7 @@ title: "TEST TEST TEST"
 permalink: /test/
 ---
 
-<script src="./test.js" />
+<script src="/ab-loot-helper.js" />
 
 <b style="color: red;">TEST TEST</b>
 
