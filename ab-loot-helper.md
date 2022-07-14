@@ -1,6 +1,6 @@
 ---
-title: "TEST TEST TEST"
-permalink: /test/
+title: "Airbobbelz Loot Helper"
+permalink: /ab-loot-helper/
 ---
 
 <script src="/ab-loot-helper.js" />
