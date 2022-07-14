@@ -4,5 +4,9 @@ title: "ABOUT"
 permalink: /about/
 ---
 
+<button id="myButton">CLICK ME</button>
 
-<script type="text/javascript">alert('hi!');</script>
+<script>
+var button = document.getElementById('myButton');
+button.addEventListener('click', function() { alert('oh hello'); });
+</script>
