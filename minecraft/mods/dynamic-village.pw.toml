@@ -1,0 +1,13 @@
+name = "Create: Dynamic Village"
+filename = "dynamicvillage-0.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b4273e88e410351a7af3567610d3151eb339c18"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4813463
+project-id = 919759

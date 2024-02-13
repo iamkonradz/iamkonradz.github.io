@@ -1,0 +1,13 @@
+name = "Better Farm Animals"
+filename = "Better_Farm_Animals_V0.07.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "617da604da43e19fb3b0b279afd7df796ac88b55"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4954654
+project-id = 656215

@@ -1,0 +1,13 @@
+name = "Silk Touch can get Spawner"
+filename = "silk_spawner-merged-v0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b6121d5d89846f96dea1bf5fdebbfa0bcbc76973"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4496228
+project-id = 851948

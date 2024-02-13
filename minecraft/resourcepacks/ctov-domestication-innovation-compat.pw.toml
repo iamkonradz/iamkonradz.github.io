@@ -1,0 +1,13 @@
+name = "CTOV - Domestication Innovation compatibility pack"
+filename = "ctov-domestication-innovation-add-on-v-1-0b.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef76271e60b65eb957bde6cccd46528ce76bb81d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4566293
+project-id = 870000

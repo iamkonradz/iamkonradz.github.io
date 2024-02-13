@@ -1,0 +1,13 @@
+name = "CTOV - Friends and Foes compatibility pack"
+filename = "ctov-friends-and-foes-add-on.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b308eb48cefb06651967d42f0ae051e7d137d410"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4436713
+project-id = 834285

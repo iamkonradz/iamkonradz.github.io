@@ -1,0 +1,13 @@
+name = "Unity"
+filename = "Unity-1.19.2-Base-2.5.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "44d5b99f14c933c34bb7b284dbcb73542ace1d6d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4567811
+project-id = 222097

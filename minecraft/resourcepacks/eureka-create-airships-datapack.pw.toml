@@ -1,0 +1,13 @@
+name = "Eureka! Create Airships! (Datapack)"
+filename = "Create Airship Recipes 1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "642a120244d0097f86b9d23c9b3640236d05818c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4329709
+project-id = 807863

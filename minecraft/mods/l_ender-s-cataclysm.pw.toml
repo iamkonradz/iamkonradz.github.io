@@ -1,0 +1,13 @@
+name = "L_Ender 's Cataclysm"
+filename = "L_Enders_Cataclysm-1.90 tongue fixed-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "91e006b50a07b98dd89e138fb0ed73322001a431"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5070401
+project-id = 551586

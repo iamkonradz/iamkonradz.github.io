@@ -1,0 +1,13 @@
+name = "CTOV - Immersive Engineering add-on"
+filename = "ctov-immersive-enginneering-add-on-v1-2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "62f0ed0f3d455648af15087fdb99a05032969854"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4535321
+project-id = 861396

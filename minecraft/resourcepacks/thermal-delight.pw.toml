@@ -1,0 +1,13 @@
+name = "Thermal Delight"
+filename = "Thermal Delight 0.6.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "864fa08b7fad403c18ee9d56e3dfa1aadeb78f17"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4614671
+project-id = 700199

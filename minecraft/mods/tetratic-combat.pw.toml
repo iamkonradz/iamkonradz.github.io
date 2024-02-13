@@ -1,0 +1,13 @@
+name = "Tetratic Combat"
+filename = "tetratic-combat-1.19-2.6.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c8f6d907394903eee0e0acd7cba29161765e5efa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4785476
+project-id = 665884

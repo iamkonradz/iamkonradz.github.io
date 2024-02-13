@@ -1,0 +1,13 @@
+name = "Twilight's Flavors & Delight"
+filename = "twilightdelight-1.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5c877e3603e483c8847987a722f3c82f60fc3aaf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4988269
+project-id = 871735

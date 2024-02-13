@@ -1,0 +1,13 @@
+name = "Idle Pause"
+filename = "Idle_Pause.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8b8d23a80f38a6b7733bb23fbcb0ca3296d93f64"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4103891
+project-id = 709111

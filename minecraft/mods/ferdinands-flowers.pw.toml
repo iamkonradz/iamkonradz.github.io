@@ -1,0 +1,13 @@
+name = "Ferdinand's Flowers"
+filename = "ferdinandsflowers-2.01-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7551461578943cab597c2428cb6a9b7b7fbd08dc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4372960
+project-id = 282077

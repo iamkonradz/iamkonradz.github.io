@@ -1,0 +1,13 @@
+name = "AeroBlender"
+filename = "aeroblender-r1.19.2-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b0900bf87f80c218174af6823352e87125c55e8b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4764797
+project-id = 879879

@@ -1,0 +1,13 @@
+name = "xali's Enhanced Vanilla"
+filename = "xali's Enhanced Vanilla v1.11.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5256eef74412078c95bfdf63da67d90dea372162"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4432216
+project-id = 513425

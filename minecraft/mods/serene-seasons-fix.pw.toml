@@ -1,0 +1,13 @@
+name = "Serene Seasons Fix"
+filename = "sereneseasonfix-1.19.2-1.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d97bbd7f1cf57ccf7b2481fef0386220f8c2f360"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4582207
+project-id = 650658

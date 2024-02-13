@@ -1,0 +1,13 @@
+name = "Archaeology API"
+filename = "archaeology-api-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aed451efa331780528f722f1716e612f95713f97"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4996103
+project-id = 950822

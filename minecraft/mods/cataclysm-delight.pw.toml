@@ -1,0 +1,13 @@
+name = "Cataclysm Delight"
+filename = "catacalysm delight 1.19.2 - 0.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b222c36cbbb8d2663a107da477c0c4329468eee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4765365
+project-id = 867902

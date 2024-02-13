@@ -1,0 +1,13 @@
+name = "Create Blue Skies Compat"
+filename = "create_blue_skies_compat-1.0.1-1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6e078ebe59f90541492884238c965d6435535c81"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4540048
+project-id = 860090
